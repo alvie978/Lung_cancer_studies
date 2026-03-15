@@ -42,6 +42,26 @@ Identify potential patterns within the dataset
 
 * Treatment approaches differ across cancer stages. Early-stage lung cancer is more likely to be managed with treatments such as surgery, while advanced stages often require more complex approaches such as chemotherapy or combined treatments.
 
+## 📝 Results
+
+* Smoking is a significant risk factor, strongly associated with lung cancer occurrence and survival outcomes.
+
+* Symptoms such as fatigue, breathing difficulty, and chest pain are common among patients diagnosed with lung cancer.
+
+* Survival rates vary by stage, with earlier detection strongly linked to better outcomes.
+
+* Treatment differs across stages: early stages often use surgery, while later stages require chemotherapy or combination therapies.
+
+## 💡 Recommendations
+
+* Encourage early screening and monitoring of patients with risk factors, especially smokers.
+
+* Track key health indicators (e.g., fatigue, breathing patterns) to aid in early detection.
+
+* Personalize treatment plans based on cancer stage to maximize survival rates.
+
+* Use predictive models to identify high-risk patients and optimize care pathways.
+
 ## 📁 Files Included
 *   **`Lung_cancer_Analysis_Project.ipynb`**: A Jupyter Notebook (created with Google Colab) containing the full data analysis, including data cleaning, exploratory data analysis (EDA), and statistical modeling.
 *   **`Lung Cancer Dashboard.pbix`**: The Power BI report file containing the interactive dashboard and all its visualizations.
